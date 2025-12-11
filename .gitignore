@@ -1,0 +1,12 @@
+node_modules/
+logs/
+*.log
+dist/
+build/
+.DS_Store
+*.env
+client/dist/
+client/node_modules/
+server/node_modules/
+server/public/*.ts
+server/public/*.m3u8
